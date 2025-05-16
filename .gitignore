@@ -1,0 +1,33 @@
+# Byte‑compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# OS‑generated
+.DS_Store
+Thumbs.db
+
+# Node modules
+node_modules/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Containers
+*.pid
+*.seed
+
+# Jupyter
+.ipynb_checkpoints/
+
